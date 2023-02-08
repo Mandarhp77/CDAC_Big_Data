@@ -1,0 +1,4 @@
+apple orange mango
+orange grapes plum
+apple plum mango
+apple apple plum

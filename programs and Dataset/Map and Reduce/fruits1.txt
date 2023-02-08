@@ -1,0 +1,4 @@
+pineapple apple mango
+mango banana berry
+cherry mango apple
+banana apple cherry
